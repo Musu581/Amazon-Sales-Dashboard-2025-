@@ -31,5 +31,5 @@ Want to improve this dashboard? Follow these steps:
 2. **Make updates** to the Excel file.  
 3. **Submit a Pull Request** with your improvements.  
 
-## 📌 Developed by [MUSKAN KUMARI] 
+## 📌 Developed by MUSKAN KUMARI 
 🔗 **Connect on LinkedIn:** [Muskan Kumari](www.linkedin.com/in/muskan-kumari-60665a2a6)  
