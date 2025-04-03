@@ -34,7 +34,7 @@ This repository contains an **interactive Excel-based dashboard** for analyzing 
 
 
 ## 🖼 Adding the Dashboard Image  
-![Amazon Sales Dashboard](Screenshot (51).png)
+![Amazon Sales Dashboard](https://raw.githubusercontent.com/Musu581/Amazon-Sales-Dashboard-2025-/3b486b7de46c5629a9cfe19d87e45b22d1c40cd5/Screenshot%20(51).png)
 
 
 ## 👨‍💻 Contribution Guide  
