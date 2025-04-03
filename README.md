@@ -21,7 +21,22 @@ This repository contains an **interactive Excel-based dashboard** for analyzing 
 - **Microsoft Excel**  
 - **Data Visualization (Charts & Graphs)**  
 - **Pivot Tables**  
-- **Dashboard Design**  
+- **Dashboard Design**
+  
+## 🔄 Process of Creating the Dashboard  
+
+1. **Data Collection** – Gather sales data in an Excel spreadsheet.  
+2. **Data Cleaning** – Remove inconsistencies and ensure accuracy.  
+3. **Pivot Table Creation** – Summarize and analyze the data efficiently.  
+4. **Chart & Graph Design** – Use bar charts, line graphs, and radar charts to visualize key metrics.  
+5. **Dashboard Integration** – Combine all elements into a single interactive Excel sheet.  
+6. **Testing & Optimization** – Validate the dashboard for accuracy and usability.
+
+
+## 🖼 Adding the Dashboard Image  
+ ```md  
+   ![Amazon Sales Dashboard](dashboard.png)  
+   ```  
 
 ## 👨‍💻 Contribution Guide  
 
